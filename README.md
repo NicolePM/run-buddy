@@ -12,3 +12,5 @@ https://nicolepm.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Nicole Mitchell
+
+### ©️2019 Run Buddy, Inc 
